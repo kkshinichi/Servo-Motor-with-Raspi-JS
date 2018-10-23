@@ -14,7 +14,7 @@ board.on('ready', function() {
 
 	toggle.on("close", function() {
 		console.log("Going Up");
-		servo.center();
+		servo.max();
 	});
 	toggle.on("open", function() {
 		console.log("Going Down");
