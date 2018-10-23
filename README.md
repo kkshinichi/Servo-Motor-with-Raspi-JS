@@ -12,6 +12,7 @@ For the final project in our class.
 - Relay
 - Toggle Switch (SPDT)
 - Male-to-Female Jumping Wires
+- Small Breadboard
 
 ## Connections
 - Refer to the Pin Information here: https://github.com/nebrius/raspi-io/wiki/Pin-Information
