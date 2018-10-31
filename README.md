@@ -18,6 +18,9 @@ For the final project in our class.
 - Refer to the Pin Information here: https://github.com/nebrius/raspi-io/wiki/Pin-Information
 - Connect the DC IN and GND of both the servo motor and the toggle switch to the appropriate 5V and GND GPIO ports of the Pi
 
+## Set the code to run automatically
+- Use method 2 from this link: https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
+
 ## To run
 - Turn on pi, and run.
 
